@@ -8,10 +8,7 @@ This project integrates healthcare data from EMR systems, insurance claims, and 
 ## Architecture of the Project  
 The architecture follows the Medallion Architecture with **Landing**, **Bronze**, **Silver**, and **Gold** layers for data processing and transformation. Below is the visual representation of the project architecture:  
 
-![Project Architecture]
-
-![image](https://github.com/user-attachments/assets/35b572ea-7917-455f-8edd-f872484ee015)
-
+<img src="https://github.com/user-attachments/assets/35b572ea-7917-455f-8edd-f872484ee015" width="300">
 
 ### Explanation of Layers  
 - **Landing Layer**:  
