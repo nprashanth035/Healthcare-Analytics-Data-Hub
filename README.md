@@ -1,4 +1,4 @@
-# Azure Data Engineering Project: Healthcare Data Integration  
+# Data Integration project
 
 ## Introduction  
 This project integrates healthcare data from EMR systems, insurance claims, and NPI APIs using Azure services. Leveraging the Medallion Architecture, it transforms raw data into clean, analytics-ready datasets for business intelligence and reporting.
